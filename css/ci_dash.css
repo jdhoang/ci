@@ -1,0 +1,25 @@
+
+   .titleTab          {width:100%; border-collapse:collapse}
+   .titleTab th       {font-family: Copperplate,"Copperplate Gothic Light",fantasy; font-size: 24pt; font-weight:bold;
+                       background: black; color: white; vertical-align: middle;
+                       text-align: left; padding: 7px; border:black 1px solid}
+   .titleTab td       {font-family: Arial; font-size: 16pt; font-weight:bold;
+                       background: black; color: white; vertical-align: middle;
+                       text-align: left; padding: 7px; border:black 1px solid}
+
+   .hoverTab          {border-collapse:collapse}
+   .hoverTab th       {font-family: Arial; font-size: 12pt; font-weight:bold;
+                       background: #336699; color: white; vertical-align: top;
+                       text-align: left; padding: 7px; border:#4e95f4 1px solid}
+   .hoverTab td       {padding: 7px; border:#4e95f4 1px solid}
+   .hoverTab tr:hover {background-color: yellow}
+
+
+   .dashTab       {width:100%; border-collapse:separate; padding: 10px; border-spacing: 10px}
+   .dashTab td    {height: 60px; font-family: Arial Black; font-size: 24pt; font-weight:bold;
+                   background: lightyellow; color: darkblue; vertical-align: middle;
+                   text-align: center; padding: 7px; border:#4e95f4 1px solid}
+   .dashTab th    {height: 60px; font-family: Arial Black; font-size: 24pt; font-weight:bold;
+                   background: #336699; color: white; vertical-align: center;
+                   text-align: center; padding: 7px; border:#4e95f4 1px solid}
+
